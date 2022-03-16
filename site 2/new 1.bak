@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+ <head>
+  <title>Animandaz</title>
+ </head>
+ <body>
+  <h1>Currículo:<h1>
+
+<table width=100%>
+  <tr>
+   <th>Nome:</th>
+   <td>Daniel Gray Mota</td>
+   <!--<td><input type="text" name="nome" size="40"> <br /></td>-->
+  </tr>
+   <tr>
+   <th>Idade:</th>
+   <td>18</td>
+   <!--<td><input type="text" name="idade" size="40"> <br /></td>-->
+   </tr>
+  <tr>
+   <th>E-mail:</th>
+   <td>danielgraymota@gmail.com</td>
+   <!--<td><input type="text" name="E-mail" size="40"> <br /></td>-->
+   </tr>
+   <tr>
+   <th>endereço:</th>
+   <td>Rua Senador Vergueiro,238<br>Flamengo,Rio de Janeiro<br>22230-001</td>
+   <!--<td><input type="text" name="Endereço" size="40"> <br /></td>-->
+  </tr>
+   <tr>
+   <th>telefone:</th>
+   <td>+21 97541 9910</td>
+   <!--<td><input type="text" name="telefone" size="40"> <br /></td>-->
+  </tr>
+   <tr>
+   <th>telefone residencial:</th>
+   <td>+21 3298 1747</td>
+   <!--<td><input type="text" name="telefone residencial" size="40"> <br /></td>-->
+  </tr>
+   <tr>
+   <th>Idiomas Falados:</th>
+   <td>Inglês E Alemão</td>
+   <!--<td><input type="text" name="Idiomas Falados" size="40"> <br /></td>-->
+  </tr>
+   <tr>
+   <th>FORMAÇÃO ACEDÊMICA:</th>
+   <td>Cursando Bacharelado de Ciencia de Dados e Inteligência Artificial</td>
+   <!--<td><input type="text" name="Idiomas Falados" size="40"> <br /></td>-->
+  </tr>
+ </table>
+ 
+ 
+</body>
+</html>
