@@ -1,4 +1,5 @@
-
+html{background-color:#b8ded8}
+/*personalizar o fundo*/
 body {
     width: 100%;
     height: 100%;
