@@ -4,7 +4,6 @@
     <title>Animandaz</title>
     <link rel="icon" type="image/x-icon" href="" />
     <link rel="stylesheet" href="estilo.css" />
-    <!--link ao css-->
   </head>
   <body>
     <header class="menu-principal">
@@ -71,10 +70,8 @@
     >
       Fale conosco
     </h1>
-    <!--título-->
 
     <form action="/formulario_contato" method="post">
-      <!--início do formulário-->
       <div class="linha">
         <div class="coluna-50">
           <p
@@ -88,7 +85,6 @@
             entrar em contato,por favor nos contacte pelos números ou E-mails
             abaixo:
           </p>
-          <!--Texto guia-->
           <h3
             style="
               font-style: italic;
@@ -98,7 +94,6 @@
           >
             Contatos:
           </h3>
-          <!--subtítulo-->
           <div
             style="
               font-style: italic;
@@ -112,7 +107,6 @@
               <li>+27 99616-2003</li>
               <li>+21 99869-3271</li>
             </ul>
-            <!--meios de contato-->
           </div>
           <h3
             style="
@@ -123,7 +117,6 @@
           >
             E-mails:
           </h3>
-          <!--subtítulo-->
           <div
             style="
               font-style: italic;
@@ -137,7 +130,6 @@
               <li>anajuliaritalc@gmail.com</li>
               <li>yorinabinovicigherman@gmail.com</li>
             </ul>
-            <!--meios de contato-->
           </div>
         </div>
         <div class="coluna-50">
@@ -157,7 +149,6 @@
             <button type="submit">Enviar</button>
           </div>
         </div>
-        <!--Informação da pessoa e seu motivo de contato que será enviado ao apertar o botão-->
       </div>
     </form>
   </body>
